@@ -2,20 +2,20 @@ _model: home
 ---
 _template: home.html
 ---
-title: As IDEs do Python
+title: Faça aplicativos nativos em Python.
 ---
 summary: 
 ---
 description:
 
-BeeWare é um conjunto de projetos que podem ser usados para auxiliar o desenvolvimento, debug e a execução de software em Python. Cada ferramenta segue a filosofia Unix de fazer as coisas bem feitas. Cada ferramenta pode ser usada isoladamente, ou podem ser concatenadas para prover um rico conjunto de ferramentas de programação.  
+Escreva seus aplicativos em Python e libere no iOS, Android, Windows, MacOS, Linux, Web e tvOS usando ricas interfaces de usuário nativas. Um código base. Vários aplicativos.  
 ---
 header:
 
 #### button-block ####
-label: Saiba mais
+label: Pegue um Tutorial
 ----
-link: /project/overview/
+link: /project/using/
 ----
 icon: 
 ----
@@ -25,7 +25,7 @@ size: lg
 ----
 is_block: no
 #### button-block ####
-label: Quero contribuir
+label: Eu quero Contribuir
 ----
 link: /contributing/
 ----
@@ -37,19 +37,25 @@ size: lg
 ----
 is_block: 
 #### button-block ####
-label: Quero doar
+label: Doe e Apoie-nos!
 ----
 link: /contributing/membership/
 ----
 icon: 
 ----
-type: primary
+type: success
 ----
 size: lg
 ----
 is_block: 
 ---
 body:
++#### text-block ####
+title: ### Um código base. Vários aplicativos.
+----
+text:  O BeeWare permite que você escreva seu aplicativo em Python e o libere em várias plataformas. Não há necessidade de reescrever o aplicativo em várias linguagens de programação. Isso significa que **não há problemas** com ferramentas de criação, ambientes, compatibilidade, etc.
+----
+image: 
 
 #### text-block ####
 title: ### Ferramentas nativas do Python...
